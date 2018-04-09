@@ -1,0 +1,13 @@
+.token {
+  .token-info p {
+    margin: $space-sm 0;
+  }
+  .token-control {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+  }
+  .transfer-toggle small {
+    margin-top: $space-sm;
+  }
+}

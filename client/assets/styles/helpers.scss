@@ -1,0 +1,23 @@
+.disabled {
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.hidden {
+  display: none;
+}
+
+.amount,
+.address,
+.link,
+.highlight {
+  color: $accent;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-align-center {
+  align-items: center;
+}
